@@ -25,7 +25,7 @@ spec:
 
         resources:                  # určenie kvót pre využívané fyzické prostriedky
                                     # je dôležité pre riadenie záťaže v rámci kubernetes
-                                    # klastra
+                                    # klastra 
             requests:
                 memory: "32M"
                 cpu: "0.1"
