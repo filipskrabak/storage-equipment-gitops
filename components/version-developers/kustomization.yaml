@@ -3,5 +3,5 @@ kind: Component
 
 images:
 - name: filipskrabak/storage-equipment-ufe
-  newName: filipskrabak/storage-equipment-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+  newName: filipskrabak/storage-equipment-ufe # {"$imagepolicy":  "wac-hospital:storage-equipment-ufe:name"}
+  newTag: main # {"$imagepolicy": "wac-hospital:storage-equipment-ufe:tag"}
