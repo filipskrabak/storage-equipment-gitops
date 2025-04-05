@@ -12,3 +12,6 @@ resources:
 - cd.kustomization.yaml
 - install.kustomization.yaml
 - git-repository.yaml
+- storage-equipment-ufe.image-repository.yaml
+- storage-equipment-ufe.image-policy.yaml
+- image-update-automation.yaml
