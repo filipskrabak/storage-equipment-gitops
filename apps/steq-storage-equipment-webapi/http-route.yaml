@@ -22,7 +22,7 @@ spec:
       backendRefs:
         - group: ""
           kind: Service
-          name: steq-storage-equipment-webapi
+          name: steq-storage-equipment
           port: 80
     - matches:
         - path:
