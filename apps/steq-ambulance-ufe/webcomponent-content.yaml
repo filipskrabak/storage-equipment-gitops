@@ -1,9 +1,9 @@
 apiVersion: polyfea.github.io/v1alpha1
 kind: WebComponent
 metadata:
-  name: steq-storage-equipment-ufe-content
+  name: steq-ambulance-ufe-content
 spec:
-  microFrontend: steq-storage-equipment-ufe
+  microFrontend: steq-ambulance-ufe
   element: steq-app
   attributes:
     - name: api-base
