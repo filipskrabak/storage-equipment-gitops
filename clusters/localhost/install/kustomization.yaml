@@ -10,6 +10,7 @@ labels:
 resources:
 - ../../../apps/steq-ambulance-ufe
 - ../../../apps/steq-storage-equipment-webapi
+- ../../../apps/mongo-express
 
 patches:
 - path: patches/storage-equipment-webapi.service.yaml

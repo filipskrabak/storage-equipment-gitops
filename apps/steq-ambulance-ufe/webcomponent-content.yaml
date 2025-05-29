@@ -11,4 +11,4 @@ spec:
   displayRules:
     - allOf:
       - context-name: main-content
-      - path: "^(\\.?/)?steq-ambulance-wl(/.*)?$"
+      - path: "^(\\.?/)?steq-storage-equipment(/.*)?$"
