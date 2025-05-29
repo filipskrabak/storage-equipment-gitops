@@ -4,7 +4,10 @@ metadata:
   name: steq-ambulance-ufe-content
 spec:
   microFrontend: steq-ambulance-ufe
-  element: steq-orders-list
+  element: steq-app
+  attributes:
+    - name: api-base
+      value: http://localhost:30081/api
   displayRules:
     - allOf:
       - context-name: main-content

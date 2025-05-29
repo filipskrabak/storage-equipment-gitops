@@ -14,4 +14,6 @@ resources:
 - git-repository.yaml
 - storage-equipment-ufe.image-repository.yaml
 - storage-equipment-ufe.image-policy.yaml
+- storage-equipment-webapi.image-repository.yaml
+- storage-equipment-webapi.image-policy.yaml
 - image-update-automation.yaml

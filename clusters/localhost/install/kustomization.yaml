@@ -9,3 +9,11 @@ labels:
 
 resources:
 - ../../../apps/steq-ambulance-ufe
+- ../../../apps/steq-storage-equipment-webapi
+
+patches:
+- path: patches/storage-equipment-webapi.service.yaml
+
+components:
+- ../../../components/version-developers
+- https://github.com/filipskrabak/storage-equipment-webapi//deployments/kustomize/components/mongodb
