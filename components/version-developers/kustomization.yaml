@@ -6,4 +6,4 @@ images:
   newTag: main.20250526.1636 # {"$imagepolicy": "wac-hospital:storage-equipment-ufe:tag"}
 - name: filipskrabak/storage-equipment-webapi
   newName: filipskrabak/storage-equipment-webapi # {"$imagepolicy":  "wac-hospital:storage-equipment-webapi:name"}
-  newTag: main.20250529.0917 # {"$imagepolicy": "wac-hospital:storage-equipment-webapi:tag"}
+  newTag: main.20250529.1305 # {"$imagepolicy": "wac-hospital:storage-equipment-webapi:tag"}
