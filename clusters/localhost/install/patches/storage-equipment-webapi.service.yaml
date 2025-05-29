@@ -1,7 +1,7 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name: steq-storage-equipment-webapi
+  name: steq-storage-equipment
 spec:
   type: NodePort
   ports:
