@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: filipskrabak/storage-equipment-ufe
   newName: filipskrabak/storage-equipment-ufe 
-  newTag: 1.0.4  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.1.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
 - name: filipskrabak/storage-equipment-webapi
   newName: filipskrabak/storage-equipment-webapi
-  newTag: 1.0.6
+  newTag: 1.1.0
