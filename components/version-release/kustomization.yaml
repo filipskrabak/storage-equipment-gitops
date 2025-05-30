@@ -6,4 +6,4 @@ images:
   newTag: 1.1.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
 - name: filipskrabak/storage-equipment-webapi
   newName: filipskrabak/storage-equipment-webapi
-  newTag: 1.1.0
+  newTag: 1.1.1
