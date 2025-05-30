@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: filipskrabak/storage-equipment-ufe
   newName: filipskrabak/storage-equipment-ufe # {"$imagepolicy":  "wac-hospital:storage-equipment-ufe:name"}
-  newTag: main.20250530.2019 # {"$imagepolicy": "wac-hospital:storage-equipment-ufe:tag"}
+  newTag: main.20250530.1939 # {"$imagepolicy": "wac-hospital:storage-equipment-ufe:tag"}
 - name: filipskrabak/storage-equipment-webapi
   newName: filipskrabak/storage-equipment-webapi # {"$imagepolicy":  "wac-hospital:storage-equipment-webapi:name"}
   newTag: main.20250530.2018 # {"$imagepolicy": "wac-hospital:storage-equipment-webapi:tag"}
