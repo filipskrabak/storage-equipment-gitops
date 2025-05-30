@@ -12,6 +12,7 @@ labels:
 
 resources:
 - ../../../apps/steq-ambulance-ufe
+- ../../../apps/<pfx>-ambulance-webapi
 
 
 components:
